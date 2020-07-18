@@ -17,3 +17,5 @@ const run = async () => {
     core.setFailed(err.message);
   }
 };
+
+run();
