@@ -14,3 +14,6 @@ jobs:
           first-greeting: "Ed"
           second-greeting: "Edd"
           third-greeting: "Eddy"
+
+      - name: ha-ha
+        uses: ./.github/actions/joke-action
